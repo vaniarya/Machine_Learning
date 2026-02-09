@@ -1,9 +1,8 @@
- 
 # 📘 Machine Learning Tutorial
 
-A step-by-step tutorial series designed to build a strong foundation in **Machine Learning**, covering core supervised learning algorithms with both intuition and practical implementation.
+A step-by-step tutorial series designed to build a strong foundation in **Machine Learning**, covering both supervised and unsupervised learning algorithms with clear intuition and practical implementation.
 
-This repository is beginner-friendly and focuses on understanding concepts before jumping into advanced models.
+This repository is beginner-friendly and focuses on understanding concepts before moving on to advanced models.
 
 ---
 
@@ -11,7 +10,7 @@ This repository is beginner-friendly and focuses on understanding concepts befor
 
 ### 🔹 Fundamentals
 - Introduction to Machine Learning
-- Supervised Learning Overview
+- Supervised vs Unsupervised Learning
 - Training, Validation, and Test Sets
 - Bias–Variance Tradeoff
 - Model Evaluation Metrics
@@ -46,16 +45,32 @@ This repository is beginner-friendly and focuses on understanding concepts befor
   - Regularization
   - Why XGBoost Performs Well
 
+### 🔹 Unsupervised Learning
+- **Clustering**
+  - K-Means Clustering
+  - Elbow Method
+  - Cluster Evaluation
+
+- **Dimensionality Reduction**
+  - Principal Component Analysis (PCA)
+  - Variance Explained
+  - Data Visualization
+
+- **Use Cases**
+  - Pattern Discovery
+  - Data Exploration
+  - Feature Reduction
+
 ---
 
 ## 🧠 Learning Objectives
 
 By completing this tutorial, you will be able to:
 
-- Understand how popular ML algorithms work internally
+- Understand how common ML algorithms work internally
 - Implement models using Python libraries
-- Compare linear and tree-based models
-- Choose the right algorithm for a given problem
+- Compare linear, tree-based, and unsupervised models
+- Choose appropriate algorithms for different problems
 - Evaluate and improve model performance
 
 ---
@@ -72,3 +87,5 @@ By completing this tutorial, you will be able to:
 ---
 
 ## 📂 Repository Structure
+
+
